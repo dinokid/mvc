@@ -1,0 +1,85 @@
+﻿@model E_Business.Models.User
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>User</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UKey)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UKey)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.USex)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.USex)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UImage)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UImage)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UCash)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UCash)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UEmail)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UEmail)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UPhone)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UPhone)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UCredit)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UCredit)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UBail)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UBail)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.UAd)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.UAd)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.UID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -44,7 +44,27 @@
             @Html.EditorFor(model => model.Mailmanner)
             @Html.ValidationMessageFor(model => model.Mailmanner)
         </div>
-
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SelName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SelName)
+            @Html.ValidationMessageFor(model => model.SelName)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SelPhone)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SelPhone)
+            @Html.ValidationMessageFor(model => model.SelPhone)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ItemNumber)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ItemNumber)
+            @Html.ValidationMessageFor(model => model.ItemNumber)
+        </div>
         <div class="editor-label">
             @Html.LabelFor(model => model.MailPrice)
         </div>

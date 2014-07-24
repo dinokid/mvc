@@ -24,7 +24,7 @@ namespace E_Business.Controllers
         //
         // GET: /Comments/Details/5
 
-        public ActionResult Details(string id = null)
+        public ActionResult Details(int id = 0)
         {
             Comment comment = db.Comments.Find(id);
             if (comment == null)
@@ -62,7 +62,7 @@ namespace E_Business.Controllers
         //
         // GET: /Comments/Edit/5
 
-        public ActionResult Edit(string id = null)
+        public ActionResult Edit(int id = 0)
         {
             Comment comment = db.Comments.Find(id);
             if (comment == null)
@@ -91,7 +91,7 @@ namespace E_Business.Controllers
         //
         // GET: /Comments/Delete/5
 
-        public ActionResult Delete(string id = null)
+        public ActionResult Delete(int id = 0)
         {
             Comment comment = db.Comments.Find(id);
             if (comment == null)
@@ -106,7 +106,7 @@ namespace E_Business.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(string id)
+        public ActionResult DeleteConfirmed(int id)
         {
             Comment comment = db.Comments.Find(id);
             db.Comments.Remove(comment);

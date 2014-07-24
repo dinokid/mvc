@@ -24,7 +24,7 @@ namespace E_Business.Controllers
         //
         // GET: /Orders/Details/5
 
-        public ActionResult Details(string id = null)
+        public ActionResult Details(int id = 0)
         {
             Order order = db.Orders.Find(id);
             if (order == null)
@@ -62,7 +62,7 @@ namespace E_Business.Controllers
         //
         // GET: /Orders/Edit/5
 
-        public ActionResult Edit(string id = null)
+        public ActionResult Edit(int id = 0)
         {
             Order order = db.Orders.Find(id);
             if (order == null)
@@ -91,7 +91,7 @@ namespace E_Business.Controllers
         //
         // GET: /Orders/Delete/5
 
-        public ActionResult Delete(string id = null)
+        public ActionResult Delete(int id = 0)
         {
             Order order = db.Orders.Find(id);
             if (order == null)
@@ -106,7 +106,7 @@ namespace E_Business.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(string id)
+        public ActionResult DeleteConfirmed(int id)
         {
             Order order = db.Orders.Find(id);
             db.Orders.Remove(order);

@@ -8,17 +8,22 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace E_Business.Models
 {
+    public enum Sex
+    { 
+        man,
+        woman
+    }
     public class User
     {
         [Key]
         [Required]
-        public int UID { get; set; }//用户ID
+        public String UID { get; set; }//用户ID
         [Required]
         public String UName { get; set; }//用户姓名
         [Required]
         public String UKey { get; set; }//用户密码  
         [Required]
-        public bool USex { get; set; }//用户性别
+        public Sex USex { get; set; }//用户性别
         public String UImage { get; set; }//用户头像URL
         [Required]
         public double UCash { get; set; }//用户账户余额

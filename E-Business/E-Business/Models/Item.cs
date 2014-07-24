@@ -23,7 +23,7 @@ namespace E_Business.Models
         [Required]
         public uint ISelNum{ get; set; }//商品销售数量
         [Required]
-        public int IShopID{ get; set; }//商品所属店铺ID
+        public String IShopID{ get; set; }//商品所属店铺ID
         [Required]
         public String IPlace{ get; set; }//商品所在地
         [Required]

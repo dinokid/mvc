@@ -13,9 +13,9 @@ namespace E_Business.Models
         [Required]
         public int CID { get; set; }//评论ID
         [Required]
-        public int CVID{ get; set; }//评价人ID
+        public String CVID{ get; set; }//评价人ID
         [Required]
-        public int CObjID{ get; set; }//评价商品ID
+        public String CObjID{ get; set; }//评价商品ID
         [Required]
         public int CLevel{ get; set; }//评级
         public String CContent{ get; set; }//评价内容

@@ -24,7 +24,7 @@ namespace E_Business.Controllers
         //
         // GET: /Items/Details/5
 
-        public ActionResult Details(string id = null)
+        public ActionResult Details(int id = 0)
         {
             Item item = db.Items.Find(id);
             if (item == null)
@@ -62,7 +62,7 @@ namespace E_Business.Controllers
         //
         // GET: /Items/Edit/5
 
-        public ActionResult Edit(string id = null)
+        public ActionResult Edit(int id = 0)
         {
             Item item = db.Items.Find(id);
             if (item == null)
@@ -91,7 +91,7 @@ namespace E_Business.Controllers
         //
         // GET: /Items/Delete/5
 
-        public ActionResult Delete(string id = null)
+        public ActionResult Delete(int id = 0)
         {
             Item item = db.Items.Find(id);
             if (item == null)
@@ -106,7 +106,7 @@ namespace E_Business.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(string id)
+        public ActionResult DeleteConfirmed(int id)
         {
             Item item = db.Items.Find(id);
             db.Items.Remove(item);

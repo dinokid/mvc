@@ -24,7 +24,7 @@ namespace E_Business.Controllers
         //
         // GET: /Users/Details/5
 
-        public ActionResult Details(string id = null)
+        public ActionResult Details(String id = null)
         {
             User user = db.Users.Find(id);
             if (user == null)
@@ -62,7 +62,7 @@ namespace E_Business.Controllers
         //
         // GET: /Users/Edit/5
 
-        public ActionResult Edit(string id = null)
+        public ActionResult Edit(String id = null)
         {
             User user = db.Users.Find(id);
             if (user == null)
@@ -91,7 +91,7 @@ namespace E_Business.Controllers
         //
         // GET: /Users/Delete/5
 
-        public ActionResult Delete(string id = null)
+        public ActionResult Delete(String id = null)
         {
             User user = db.Users.Find(id);
             if (user == null)
@@ -106,7 +106,7 @@ namespace E_Business.Controllers
 
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult DeleteConfirmed(string id)
+        public ActionResult DeleteConfirmed(String id)
         {
             User user = db.Users.Find(id);
             db.Users.Remove(user);
@@ -120,7 +120,7 @@ namespace E_Business.Controllers
             base.Dispose(disposing);
         }
 
-        public User SelectByID(int id)//根据用户id查找用户
+        /*public User SelectByID(int id)//根据用户id查找用户
         {
             User user = db.Users.Find(id);
             return user;
@@ -270,6 +270,6 @@ namespace E_Business.Controllers
                 return true;
             }
             return false;
-        }
+        }*/
     }
 }

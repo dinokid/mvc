@@ -1,0 +1,99 @@
+﻿@model IEnumerable<E_Business.Models.Order>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mailmanner)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MailPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Discout)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RecName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RecPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.State)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mailmanner)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MailPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Discout)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RecName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RecPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.State)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.OID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.OID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.OID })
+        </td>
+    </tr>
+}
+
+</table>

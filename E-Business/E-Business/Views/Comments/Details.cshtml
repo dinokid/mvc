@@ -1,0 +1,43 @@
+﻿@model E_Business.Models.Comment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Comment</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CVID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CVID)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CObjID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CObjID)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CLevel)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CLevel)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CContent)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CContent)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.CID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

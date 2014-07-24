@@ -1,0 +1,99 @@
+﻿@model E_Business.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Order</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.SID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SID)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.BID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BID)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IID)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Mailmanner)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Mailmanner)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.MailPrice)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.MailPrice)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Discout)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Discout)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.FPrice)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.FPrice)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.SAddress)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SAddress)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.RAddress)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RAddress)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.RecName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RecName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.RecPhone)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.RecPhone)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.State)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.State)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.OID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

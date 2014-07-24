@@ -1,0 +1,40 @@
+﻿@model E_Business.Models.Comment
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Comment</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CObjID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CObjID)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CLevel)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CLevel)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.CContent)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.CContent)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

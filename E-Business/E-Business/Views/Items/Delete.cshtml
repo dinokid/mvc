@@ -1,0 +1,89 @@
+﻿@model E_Business.Models.Item
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Item</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IImage)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IImage)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IPrice)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IPrice)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IDiscribe)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IDiscribe)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IComScore)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IComScore)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ISelNum)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ISelNum)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IShopID)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IShopID)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IPlace)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IPlace)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ISurNum)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ISurNum)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IURecNum)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IURecNum)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

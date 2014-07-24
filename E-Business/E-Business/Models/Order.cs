@@ -9,17 +9,17 @@ namespace E_Business.Models
 {
     public enum OrderState
     { 
-        未发货,
-        已发货未确认,
-        确认付款,
-        退货中,
+        UnSend,
+        SendUnpaid,
+        Paid,
+        Rejected
     }
     public enum MailManner
     { 
         EMS,
-        顺丰快递,
-        圆通快递,
-        平邮
+        SF,
+        YT,
+        PY
     }
     public class Order
     {

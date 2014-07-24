@@ -120,13 +120,13 @@ namespace E_Business.Controllers
             base.Dispose(disposing);
         }
 
-        public User SelectByID(string id)//根据用户id查找用户
+        public User SelectByID(int id)//根据用户id查找用户
         {
             User user = db.Users.Find(id);
             return user;
         }
 
-        public bool InsertSurfRecord(string UID, string IID)//插入浏览记录
+        public bool InsertSurfRecord(int UID, int IID)//插入浏览记录
         {
             User user = db.Users.Find(UID);
             if (user != null)
@@ -135,7 +135,7 @@ namespace E_Business.Controllers
                 int i = 0;
                 for (; i < 5; i++)
                 {
-                    if (user.USurfRecord[i] == null)
+                    if (user.USurfRecord[i] == 0)
                         user.USurfRecord[i] = IID;
                 }
                 if (i == 5)
@@ -151,22 +151,22 @@ namespace E_Business.Controllers
             return false;
         }
 
-        public bool InsertCollect(string UID, string IID)//将商品加购物车
+        public bool InsertCollect(int UID, int IID)//将商品加购物车
         {
             User user = db.Users.Find(UID);
-            String[] collect;
+            int[] collect;
             int i;
             if (user != null)
             {
                 //db.Entry(user).State = EntityState.Modified;
                 if (user.UCollect == null)
                 {
-                    user.UCollect = new String[10];
+                    user.UCollect = new int[10];
                     user.UCollect[0] = IID;
                 }
-                else if (user.UCollect[user.UCollect.Length] != null)
+                else if (user.UCollect[user.UCollect.Length] != 0)
                 {
-                    collect = new String[2 * user.UCollect.Length];
+                    collect = new int[2 * user.UCollect.Length];
                     for (i = 0; i < user.UCollect.Length; i++)
                     {
                         collect[i] = user.UCollect[i];
@@ -176,7 +176,7 @@ namespace E_Business.Controllers
                 else
                 {
                     for (i = 0; i < user.UCollect.Length; i++)
-                        if (user.UCollect[i] == null)
+                        if (user.UCollect[i] == 0)
                         {
                             user.UCollect[i] = IID;
                             break;
@@ -188,22 +188,22 @@ namespace E_Business.Controllers
             return false;
         }
 
-        public bool InsertShopCart(string UID, string IID)//将商品添加到购物车
+        public bool InsertShopCart(int UID, int IID)//将商品添加到购物车
         {
             User user = db.Users.Find(UID);
-            String[] shopcart;
+            int[] shopcart;
             int i;
             if (user != null)
             {
                 //db.Entry(user).State = EntityState.Modified;
                 if (user.UShopCart == null)
                 {
-                    user.UShopCart = new String[10];
+                    user.UShopCart = new int[10];
                     user.UShopCart[0] = IID;
                 }
-                else if (user.UCollect[user.UShopCart.Length] != null)
+                else if (user.UCollect[user.UShopCart.Length] != 0)
                 {
-                    shopcart = new String[2 * user.UShopCart.Length];
+                    shopcart = new int[2 * user.UShopCart.Length];
                     for (i = 0; i < user.UShopCart.Length; i++)
                     {
                         shopcart[i] = user.UShopCart[i];
@@ -213,7 +213,7 @@ namespace E_Business.Controllers
                 else
                 {
                     for (i = 0; i < user.UShopCart.Length; i++)
-                        if (user.UShopCart[i] == null)
+                        if (user.UShopCart[i] == 0)
                         {
                             user.UShopCart[i] = IID;
                             break;
@@ -225,20 +225,20 @@ namespace E_Business.Controllers
             return false;
         }
 
-        public bool ClearSurfRecord(String UID)//清空浏览记录
+        public bool ClearSurfRecord(int UID)//清空浏览记录
         {
             User user = db.Users.Find(UID);
             if (user != null)
             {
                 for (int i = 0; i < user.USurfRecord.Length; i++)
-                    user.USurfRecord[i] = null;
+                    user.USurfRecord[i] = 0;
                 db.SaveChanges();
                 return true;
             }
             return false;
         }
 
-        public bool DeleteCollect(String UID, String IID)//取消收藏
+        public bool DeleteCollect(int UID, int IID)//取消收藏
         {
             int i;
             User user = db.Users.Find(UID);
@@ -249,13 +249,13 @@ namespace E_Business.Controllers
                         break;
                 while (i < user.UCollect.Length - 1 && user.UCollect[i + 1] != null)
                     user.UCollect[i] = user.UCollect[i + 1];
-                user.UCollect[i] = null;
+                user.UCollect[i] = 0;
                 return true;
             }
             return false;
         }
 
-        public bool DeleteShopCart(String UID, String IID)//取消收藏
+        public bool DeleteShopCart(int UID, int IID)//取消收藏
         {
             int i;
             User user = db.Users.Find(UID);
@@ -266,7 +266,7 @@ namespace E_Business.Controllers
                         break;
                 while (i < user.UShopCart.Length - 1 && user.UShopCart[i + 1] != null)
                     user.UShopCart[i] = user.UShopCart[i + 1];
-                user.UShopCart[i] = null;
+                user.UShopCart[i] = 0;
                 return true;
             }
             return false;

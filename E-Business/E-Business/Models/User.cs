@@ -24,9 +24,9 @@ namespace E_Business.Models
         public double UCash { get; set; }//用户账户余额
         public String UEmail { get; set; }//用户Email
         public String UPhone { get; set; }//用户手机号码
-        public String[] USurfRecord { get; set; }//用户浏览记录
-        public String[] UCollect { get; set; }//用户收藏商品
-        public String[] UShopCart { get; set; }//购物车
+        public int[] USurfRecord { get; set; }//用户浏览记录
+        public int[] UCollect { get; set; }//用户收藏商品
+        public int[] UShopCart { get; set; }//购物车
         [Required]
         public uint UCredit { get; set; }//用户积分
         [Required]
@@ -34,7 +34,7 @@ namespace E_Business.Models
         public String UAd { get; set; }//用户地址
         public User()
         {
-            UCollect = new String[5];
+            UCollect = new int[5];
             UShopCart = null;
             USurfRecord = null;
         }

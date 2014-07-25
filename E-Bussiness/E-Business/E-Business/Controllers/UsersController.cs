@@ -12,7 +12,7 @@ namespace E_Business.Controllers
     public class UsersController : Controller
     {
         private UserDBContext db = new UserDBContext();
-
+        private ItemDBContext db2 = new ItemDBContext();
         //
         // GET: /Users/
 
@@ -39,6 +39,12 @@ namespace E_Business.Controllers
 
         public ActionResult Create()
         {
+            var sexList = new List<SelectListItem>();
+            sexList.Add(new SelectListItem(){ Text = "Male", Value = "Man", Selected = true});
+            sexList.Add(new SelectListItem(){Text = "Female", Value = "Female", Selected = false});
+            ViewBag.sexList = new List<SelectListItem>(sexList);
+
+
             return View();
         }
 
@@ -330,6 +336,29 @@ namespace E_Business.Controllers
                 if (_userName == "" || _password == "") return false;
                 else return true;
             }
+        }
+
+        public ActionResult ShopCart(String id = null)
+        {
+            if (HttpContext.Request.Cookies["User"] == null)
+            {
+                return RedirectToAction("Login", "Users");
+            }
+            HttpCookie _cookie = HttpContext.Request.Cookies["User"];
+            id = _cookie["UserName"];
+            User user = db.Users.Find(id);
+            if (user == null)
+            {
+                return HttpNotFound();
+            }
+            Item[] ItemList = new Item[0];
+            if (user.UShopCart == null)
+                return View(ItemList);
+            ItemList = new Item[user.UShopCart.Length];
+            int i = 0;
+            while (user.UShopCart[i] != 0 && i < user.UShopCart.Length)
+                ItemList[i] = db2.Items.Find(user.UShopCart[i]);
+            return View(ItemList);
         }
     }
 }

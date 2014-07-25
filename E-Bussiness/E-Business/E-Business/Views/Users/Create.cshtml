@@ -40,9 +40,11 @@
             性别：
         </div>
         <div class="editor-field">
-            @Html.EditorFor(model => model.USex)
+            <br/>
+            @Html.DropDownList("sexList");
             @Html.ValidationMessageFor(model => model.USex)
         </div>
+        <br/>
 
         <div class="editor-label">
             用户头像：

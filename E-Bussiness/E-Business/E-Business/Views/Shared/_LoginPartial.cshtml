@@ -1,0 +1,15 @@
+﻿@if (@Request.Cookies["User"] != null)
+{
+    <text>
+        你好，@Request.Cookies["User"]["UserName"]！
+        @using (Html.BeginForm("Logout", "Users", FormMethod.Get, new { id = "logoutForm" })) {
+            @Html.AntiForgeryToken()
+            <a href="javascript:document.getElementById('logoutForm').submit()">注销</a>
+        }
+    </text>
+} else {
+    <ul>
+        <li>@Html.ActionLink("注册", "Create", "Users", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("登录", "Login", "Users", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

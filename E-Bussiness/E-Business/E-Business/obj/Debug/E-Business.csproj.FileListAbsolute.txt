@@ -1,0 +1,400 @@
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\E-Business.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\E-Business.pdb
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Antlr3.Runtime.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.Core.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\EntityFramework.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Data.Edm.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Data.OData.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Newtonsoft.Json.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Net.Http.Formatting.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Spatial.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Helpers.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Http.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Http.OData.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Http.WebHost.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Mvc.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Optimization.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Razor.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.WebPages.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.WebPages.Razor.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\WebGrease.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\WebMatrix.Data.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\WebMatrix.WebData.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\EntityFramework.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Newtonsoft.Json.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Net.Http.Formatting.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Helpers.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Http.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Http.WebHost.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Mvc.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Razor.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.WebPages.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.WebPages.Razor.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\WebMatrix.Data.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\WebMatrix.WebData.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.Core.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Web.Http.OData.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Data.Edm.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\Microsoft.Data.OData.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\System.Spatial.xml
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\de\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\es\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\fr\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\it\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ja\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ko\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\ru\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\obj\Debug\E-Business.csprojResolveAssemblyReference.cache
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\obj\Debug\E-Business.dll
+C:\Users\lyh\Documents\Visual Studio 2012\Projects\E-Business\E-Business\obj\Debug\E-Business.pdb
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\E-Business.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\E-Business.pdb
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Antlr3.Runtime.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.Core.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\EntityFramework.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Data.Edm.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Data.OData.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Newtonsoft.Json.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Net.Http.Formatting.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Spatial.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Helpers.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Http.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Http.OData.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Http.WebHost.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Mvc.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Optimization.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Razor.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.WebPages.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.WebPages.Razor.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\WebGrease.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\WebMatrix.Data.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\WebMatrix.WebData.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\EntityFramework.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Newtonsoft.Json.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Net.Http.Formatting.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Helpers.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Http.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Http.WebHost.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Mvc.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Razor.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.WebPages.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.WebPages.Razor.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\WebMatrix.Data.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\WebMatrix.WebData.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.Core.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Web.Http.OData.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Data.Edm.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\Microsoft.Data.OData.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\System.Spatial.xml
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\de\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\es\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\fr\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\it\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ja\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ko\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\ru\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\obj\Debug\E-Business.dll
+C:\Users\lyh\Desktop\E-Business\E-Business\obj\Debug\E-Business.pdb
+C:\Users\lyh\Desktop\E-Business\E-Business\obj\Debug\E-Business.csprojResolveAssemblyReference.cache
+D:\E-Bussiness\E-Business\E-Business\bin\E-Business.dll
+D:\E-Bussiness\E-Business\E-Business\bin\E-Business.pdb
+D:\E-Bussiness\E-Business\E-Business\bin\Antlr3.Runtime.dll
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.dll
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.Core.dll
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.dll
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.dll
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\E-Bussiness\E-Business\E-Business\bin\EntityFramework.dll
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.Edm.dll
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.OData.dll
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.Infrastructure.dll
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\E-Bussiness\E-Business\E-Business\bin\Newtonsoft.Json.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Net.Http.Formatting.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Spatial.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Helpers.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.OData.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.WebHost.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Mvc.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Optimization.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Razor.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Deployment.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.dll
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Razor.dll
+D:\E-Bussiness\E-Business\E-Business\bin\WebGrease.dll
+D:\E-Bussiness\E-Business\E-Business\bin\WebMatrix.Data.dll
+D:\E-Bussiness\E-Business\E-Business\bin\WebMatrix.WebData.dll
+D:\E-Bussiness\E-Business\E-Business\bin\EntityFramework.xml
+D:\E-Bussiness\E-Business\E-Business\bin\Newtonsoft.Json.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Net.Http.Formatting.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Helpers.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.WebHost.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Mvc.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Razor.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Deployment.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Razor.xml
+D:\E-Bussiness\E-Business\E-Business\bin\WebMatrix.Data.xml
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\E-Bussiness\E-Business\E-Business\bin\WebMatrix.WebData.xml
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.xml
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.Core.xml
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.xml
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.xml
+D:\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.OData.xml
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.Edm.xml
+D:\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.OData.xml
+D:\E-Bussiness\E-Business\E-Business\bin\System.Spatial.xml
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\EntityFramework.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Http.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\WebMatrix.Data.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\WebMatrix.WebData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Http.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\de\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\es\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\it\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\de\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\es\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\fr\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\it\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ja\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ko\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ru\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\de\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\es\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\fr\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\it\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ja\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ko\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\ru\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\bin\zh-Hant\System.Spatial.resources.dll
+D:\E-Bussiness\E-Business\E-Business\obj\Debug\E-Business.csprojResolveAssemblyReference.cache
+D:\E-Bussiness\E-Business\E-Business\obj\Debug\E-Business.dll
+D:\E-Bussiness\E-Business\E-Business\obj\Debug\E-Business.pdb
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\E-Business.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\E-Business.pdb
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Antlr3.Runtime.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.Core.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\EntityFramework.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.Edm.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.OData.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Newtonsoft.Json.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Net.Http.Formatting.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Spatial.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Helpers.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.OData.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.WebHost.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Mvc.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Optimization.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Razor.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\WebGrease.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\WebMatrix.Data.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\WebMatrix.WebData.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\EntityFramework.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Newtonsoft.Json.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Net.Http.Formatting.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Helpers.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.WebHost.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Mvc.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Razor.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\WebMatrix.Data.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\WebMatrix.WebData.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.Core.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Web.Http.OData.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.Edm.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\Microsoft.Data.OData.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\System.Spatial.xml
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\de\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\es\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\fr\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\it\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ja\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ko\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\ru\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\obj\Debug\E-Business.csprojResolveAssemblyReference.cache
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\obj\Debug\E-Business.dll
+C:\Users\Dino Huang\Desktop\E-Bussiness\E-Business\E-Business\obj\Debug\E-Business.pdb

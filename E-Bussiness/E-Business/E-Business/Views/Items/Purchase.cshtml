@@ -1,0 +1,75 @@
+﻿@model E_Business.Models.Item
+
+@{
+    ViewBag.Title = "Purchase";
+}
+
+<h2>Purchase</h2>
+<table>
+    <tr>
+        <th>商品名称
+        </th>
+        <th>商品图像
+        </th>
+        <th>商品价格
+        </th>
+        <th>商品描述
+        </th>
+        <th>买家评分
+        </th>
+        <th>商品销量
+        <th>
+            卖家ID
+        </th>
+        <th>
+            发货地址
+        </th>
+        <th>
+            库存量
+        </th>
+@*        <th>
+            @Html.DisplayNameFor(model => model.IURecNum)
+        </th>*@
+        <th></th>
+    </tr>
+
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => Model.IName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.IImage)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.IPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.IDiscribe)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.IComScore)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.ISelNum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.IShopID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.IPlace)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => Model.ISurNum)
+        </td>
+@*        <td>
+            @Html.DisplayFor(modelItem => item.IURecNum)
+        </td>*@
+    </tr>
+
+</table>
+<td>
+     @*@Html.ActionLink("Edit", "Edit", new { id=item.IID }) |
+     @Html.ActionLink("Details", "Details", new { id=item.IID }) |*@
+     @Html.ActionLink("立即购买", "Create", "Orders",new {userId = @Request.Cookies["User"]["UserName"],itemId = Model.IID}, new {}) |
+     @Html.ActionLink("添加到购物车", "SearchIndex")
+</td>

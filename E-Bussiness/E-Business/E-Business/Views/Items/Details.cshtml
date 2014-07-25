@@ -1,0 +1,86 @@
+﻿@model E_Business.Models.Item
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Item</legend>
+
+    <div class="display-label">
+         商品名称
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IName)
+    </div>
+
+    <div class="display-label">
+        商品图像
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IImage)
+    </div>
+
+    <div class="display-label">
+         商品价格
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IPrice)
+    </div>
+
+    <div class="display-label">
+         商品描述
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IDiscribe)
+    </div>
+
+    <div class="display-label">
+         买家评分
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IComScore)
+    </div>
+
+    <div class="display-label">
+         商品销量
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ISelNum)
+    </div>
+
+    <div class="display-label">
+         卖方ID
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IShopID)
+    </div>
+
+    <div class="display-label">
+         商品发货地
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IPlace)
+    </div>
+
+    <div class="display-label">
+         商品剩余量
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ISurNum)
+    </div>
+
+    <div class="display-label">
+         商品未签收数量
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IURecNum)
+    </div>
+</fieldset>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id=Model.IID }) |*@
+    @Html.ActionLink("返回商品列表", "Index") |
+    @Html.ActionLink("购买商品", "Purchase ", new { id=Model.IID })
+</p>
